@@ -26,4 +26,5 @@ gem 'devise', '1.1.rc2'
 
 # Bundle gems for certain environments:
 gem 'rspec', :group => :test
+gem 'rspec-rails', :group => :test
 
